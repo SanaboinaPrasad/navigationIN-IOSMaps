@@ -1,0 +1,464 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "ViewController"
+provides-nominal:
+- "3nav14ViewControllerC"
+provides-member:
+- ["3nav14ViewControllerC", ""]
+provides-dynamic-lookup:
+- "didReceiveMemoryWarning"
+- "showMeWhere"
+- "viewDidLoad"
+depends-top-level:
+- "AssignmentPrecedence"
+- !private "CLLocationCoordinate2DMake"
+- !private "CLLocationDegrees"
+- !private "CLLocationDistance"
+- !private "Dictionary"
+- !private "FloatLiteralType"
+- !private "IntegerLiteralType"
+- !private "MKCoordinateRegionMakeWithDistance"
+- !private "MKLaunchOptionsMapCenterKey"
+- !private "MKLaunchOptionsMapSpanKey"
+- !private "MKMapItem"
+- !private "MKPlacemark"
+- !private "NSValue"
+- !private "StringLiteralType"
+- "UIViewController"
+- "ViewController"
+depends-member:
+- !private ["SK", "init"]
+- !private ["SK", "init"]
+- !private ["So11CLPlacemarkC", "init"]
+- !private ["s7CVarArgP", "CLLocationCoordinate2DMake"]
+- !private ["s7CVarArgP", "MKCoordinateRegionMakeWithDistance"]
+- !private ["s7CVarArgP", "MKLaunchOptionsMapCenterKey"]
+- !private ["s7CVarArgP", "MKLaunchOptionsMapSpanKey"]
+- !private ["s7CVarArgP", "MKMapItem"]
+- !private ["s7CVarArgP", "MKPlacemark"]
+- !private ["s7CVarArgP", "NSValue"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "didReceiveMemoryWarning"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "name"]
+- !private ["s7CVarArgP", "openInMaps"]
+- !private ["s7CVarArgP", "viewDidLoad"]
+- !private ["Sl", "init"]
+- !private ["Sl", "init"]
+- !private ["SL", "init"]
+- !private ["SL", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "CLLocationCoordinate2DMake"]
+- !private ["s28CustomDebugStringConvertibleP", "MKCoordinateRegionMakeWithDistance"]
+- !private ["s28CustomDebugStringConvertibleP", "MKLaunchOptionsMapCenterKey"]
+- !private ["s28CustomDebugStringConvertibleP", "MKLaunchOptionsMapSpanKey"]
+- !private ["s28CustomDebugStringConvertibleP", "MKMapItem"]
+- !private ["s28CustomDebugStringConvertibleP", "MKPlacemark"]
+- !private ["s28CustomDebugStringConvertibleP", "NSValue"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "didReceiveMemoryWarning"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "name"]
+- !private ["s28CustomDebugStringConvertibleP", "openInMaps"]
+- !private ["s28CustomDebugStringConvertibleP", "viewDidLoad"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s23CustomStringConvertibleP", "CLLocationCoordinate2DMake"]
+- !private ["s23CustomStringConvertibleP", "MKCoordinateRegionMakeWithDistance"]
+- !private ["s23CustomStringConvertibleP", "MKLaunchOptionsMapCenterKey"]
+- !private ["s23CustomStringConvertibleP", "MKLaunchOptionsMapSpanKey"]
+- !private ["s23CustomStringConvertibleP", "MKMapItem"]
+- !private ["s23CustomStringConvertibleP", "MKPlacemark"]
+- !private ["s23CustomStringConvertibleP", "NSValue"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "didReceiveMemoryWarning"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "name"]
+- !private ["s23CustomStringConvertibleP", "openInMaps"]
+- !private ["s23CustomStringConvertibleP", "viewDidLoad"]
+- !private ["Se", "init"]
+- !private ["Se", "init"]
+- !private ["SE", "init"]
+- !private ["SE", "init"]
+- !private ["SQ", "CLLocationCoordinate2DMake"]
+- !private ["SQ", "MKCoordinateRegionMakeWithDistance"]
+- !private ["SQ", "MKLaunchOptionsMapCenterKey"]
+- !private ["SQ", "MKLaunchOptionsMapSpanKey"]
+- !private ["SQ", "MKMapItem"]
+- !private ["SQ", "MKPlacemark"]
+- !private ["SQ", "NSValue"]
+- ["SQ", ""]
+- !private ["SQ", "didReceiveMemoryWarning"]
+- !private ["SQ", "init"]
+- !private ["SQ", "init"]
+- !private ["SQ", "name"]
+- !private ["SQ", "openInMaps"]
+- !private ["SQ", "viewDidLoad"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["SH", "CLLocationCoordinate2DMake"]
+- !private ["SH", "MKCoordinateRegionMakeWithDistance"]
+- !private ["SH", "MKLaunchOptionsMapCenterKey"]
+- !private ["SH", "MKLaunchOptionsMapSpanKey"]
+- !private ["SH", "MKMapItem"]
+- !private ["SH", "MKPlacemark"]
+- !private ["SH", "NSValue"]
+- ["SH", ""]
+- !private ["SH", "didReceiveMemoryWarning"]
+- !private ["SH", "init"]
+- !private ["SH", "init"]
+- !private ["SH", "name"]
+- !private ["SH", "openInMaps"]
+- !private ["SH", "viewDidLoad"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["So12MKAnnotationP", "init"]
+- !private ["So18MKCoordinateRegiona", "center"]
+- !private ["So18MKCoordinateRegiona", "span"]
+- !private ["So9MKMapItemC", "init"]
+- !private ["So9MKMapItemC", "name"]
+- !private ["So9MKMapItemC", "openInMaps"]
+- !private ["So11MKPlacemarkC", "init"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["So8NSCodingP", "CLLocationCoordinate2DMake"]
+- !private ["So8NSCodingP", "MKCoordinateRegionMakeWithDistance"]
+- !private ["So8NSCodingP", "MKLaunchOptionsMapCenterKey"]
+- !private ["So8NSCodingP", "MKLaunchOptionsMapSpanKey"]
+- !private ["So8NSCodingP", "MKMapItem"]
+- !private ["So8NSCodingP", "MKPlacemark"]
+- !private ["So8NSCodingP", "NSValue"]
+- ["So8NSCodingP", ""]
+- !private ["So8NSCodingP", "didReceiveMemoryWarning"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "name"]
+- !private ["So8NSCodingP", "openInMaps"]
+- !private ["So8NSCodingP", "viewDidLoad"]
+- !private ["So9NSCopyingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "CLLocationCoordinate2DMake"]
+- !private ["So26NSExtensionRequestHandlingP", "MKCoordinateRegionMakeWithDistance"]
+- !private ["So26NSExtensionRequestHandlingP", "MKLaunchOptionsMapCenterKey"]
+- !private ["So26NSExtensionRequestHandlingP", "MKLaunchOptionsMapSpanKey"]
+- !private ["So26NSExtensionRequestHandlingP", "MKMapItem"]
+- !private ["So26NSExtensionRequestHandlingP", "MKPlacemark"]
+- !private ["So26NSExtensionRequestHandlingP", "NSValue"]
+- ["So26NSExtensionRequestHandlingP", ""]
+- !private ["So26NSExtensionRequestHandlingP", "didReceiveMemoryWarning"]
+- !private ["So26NSExtensionRequestHandlingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "viewDidLoad"]
+- !private ["So21NSItemProviderReadingP", "init"]
+- !private ["So21NSItemProviderReadingP", "name"]
+- !private ["So21NSItemProviderReadingP", "openInMaps"]
+- !private ["So21NSItemProviderWritingP", "init"]
+- !private ["So21NSItemProviderWritingP", "name"]
+- !private ["So21NSItemProviderWritingP", "openInMaps"]
+- !private ["So8NSObjectC", "CLLocationCoordinate2DMake"]
+- !private ["So8NSObjectC", "CLLocationDegrees"]
+- !private ["So8NSObjectC", "CLLocationDistance"]
+- !private ["So8NSObjectC", "MKCoordinateRegionMakeWithDistance"]
+- !private ["So8NSObjectC", "MKLaunchOptionsMapCenterKey"]
+- !private ["So8NSObjectC", "MKLaunchOptionsMapSpanKey"]
+- !private ["So8NSObjectC", "MKMapItem"]
+- !private ["So8NSObjectC", "MKPlacemark"]
+- !private ["So8NSObjectC", "NSValue"]
+- ["So8NSObjectC", "didReceiveMemoryWarning"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "name"]
+- !private ["So8NSObjectC", "openInMaps"]
+- ["So8NSObjectC", "showMeWhere"]
+- ["So8NSObjectC", "viewDidLoad"]
+- !private ["So8NSObjectP", "CLLocationCoordinate2DMake"]
+- !private ["So8NSObjectP", "MKCoordinateRegionMakeWithDistance"]
+- !private ["So8NSObjectP", "MKLaunchOptionsMapCenterKey"]
+- !private ["So8NSObjectP", "MKLaunchOptionsMapSpanKey"]
+- !private ["So8NSObjectP", "MKMapItem"]
+- !private ["So8NSObjectP", "MKPlacemark"]
+- !private ["So8NSObjectP", "NSValue"]
+- ["So8NSObjectP", ""]
+- !private ["So8NSObjectP", "didReceiveMemoryWarning"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "name"]
+- !private ["So8NSObjectP", "openInMaps"]
+- !private ["So8NSObjectP", "viewDidLoad"]
+- !private ["So14NSSecureCodingP", "init"]
+- !private ["So14NSSecureCodingP", "name"]
+- !private ["So14NSSecureCodingP", "openInMaps"]
+- !private ["So7NSValueC", "init"]
+- !private ["Sm", "init"]
+- !private ["Sm", "init"]
+- !private ["ST", "init"]
+- !private ["ST", "init"]
+- !private ["SS", "init"]
+- !private ["SS", "init"]
+- !private ["Sy", "init"]
+- !private ["Sy", "init"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["So21UIAppearanceContainerP", "CLLocationCoordinate2DMake"]
+- !private ["So21UIAppearanceContainerP", "MKCoordinateRegionMakeWithDistance"]
+- !private ["So21UIAppearanceContainerP", "MKLaunchOptionsMapCenterKey"]
+- !private ["So21UIAppearanceContainerP", "MKLaunchOptionsMapSpanKey"]
+- !private ["So21UIAppearanceContainerP", "MKMapItem"]
+- !private ["So21UIAppearanceContainerP", "MKPlacemark"]
+- !private ["So21UIAppearanceContainerP", "NSValue"]
+- ["So21UIAppearanceContainerP", ""]
+- !private ["So21UIAppearanceContainerP", "didReceiveMemoryWarning"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "viewDidLoad"]
+- !private ["So18UIContentContainerP", "CLLocationCoordinate2DMake"]
+- !private ["So18UIContentContainerP", "MKCoordinateRegionMakeWithDistance"]
+- !private ["So18UIContentContainerP", "MKLaunchOptionsMapCenterKey"]
+- !private ["So18UIContentContainerP", "MKLaunchOptionsMapSpanKey"]
+- !private ["So18UIContentContainerP", "MKMapItem"]
+- !private ["So18UIContentContainerP", "MKPlacemark"]
+- !private ["So18UIContentContainerP", "NSValue"]
+- ["So18UIContentContainerP", ""]
+- !private ["So18UIContentContainerP", "didReceiveMemoryWarning"]
+- !private ["So18UIContentContainerP", "init"]
+- !private ["So18UIContentContainerP", "init"]
+- !private ["So18UIContentContainerP", "viewDidLoad"]
+- !private ["So18UIFocusEnvironmentP", "CLLocationCoordinate2DMake"]
+- !private ["So18UIFocusEnvironmentP", "MKCoordinateRegionMakeWithDistance"]
+- !private ["So18UIFocusEnvironmentP", "MKLaunchOptionsMapCenterKey"]
+- !private ["So18UIFocusEnvironmentP", "MKLaunchOptionsMapSpanKey"]
+- !private ["So18UIFocusEnvironmentP", "MKMapItem"]
+- !private ["So18UIFocusEnvironmentP", "MKPlacemark"]
+- !private ["So18UIFocusEnvironmentP", "NSValue"]
+- ["So18UIFocusEnvironmentP", ""]
+- !private ["So18UIFocusEnvironmentP", "didReceiveMemoryWarning"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "viewDidLoad"]
+- !private ["So30UIPasteConfigurationSupportingP", "CLLocationCoordinate2DMake"]
+- !private ["So30UIPasteConfigurationSupportingP", "MKCoordinateRegionMakeWithDistance"]
+- !private ["So30UIPasteConfigurationSupportingP", "MKLaunchOptionsMapCenterKey"]
+- !private ["So30UIPasteConfigurationSupportingP", "MKLaunchOptionsMapSpanKey"]
+- !private ["So30UIPasteConfigurationSupportingP", "MKMapItem"]
+- !private ["So30UIPasteConfigurationSupportingP", "MKPlacemark"]
+- !private ["So30UIPasteConfigurationSupportingP", "NSValue"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- !private ["So30UIPasteConfigurationSupportingP", "didReceiveMemoryWarning"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "viewDidLoad"]
+- !private ["So11UIResponderC", "CLLocationCoordinate2DMake"]
+- !private ["So11UIResponderC", "CLLocationDegrees"]
+- !private ["So11UIResponderC", "CLLocationDistance"]
+- !private ["So11UIResponderC", "MKCoordinateRegionMakeWithDistance"]
+- !private ["So11UIResponderC", "MKLaunchOptionsMapCenterKey"]
+- !private ["So11UIResponderC", "MKLaunchOptionsMapSpanKey"]
+- !private ["So11UIResponderC", "MKMapItem"]
+- !private ["So11UIResponderC", "MKPlacemark"]
+- !private ["So11UIResponderC", "NSValue"]
+- ["So11UIResponderC", "didReceiveMemoryWarning"]
+- ["So11UIResponderC", "init"]
+- !private ["So11UIResponderC", "init"]
+- ["So11UIResponderC", "showMeWhere"]
+- ["So11UIResponderC", "viewDidLoad"]
+- !private ["So30UIResponderStandardEditActionsP", "CLLocationCoordinate2DMake"]
+- !private ["So30UIResponderStandardEditActionsP", "MKCoordinateRegionMakeWithDistance"]
+- !private ["So30UIResponderStandardEditActionsP", "MKLaunchOptionsMapCenterKey"]
+- !private ["So30UIResponderStandardEditActionsP", "MKLaunchOptionsMapSpanKey"]
+- !private ["So30UIResponderStandardEditActionsP", "MKMapItem"]
+- !private ["So30UIResponderStandardEditActionsP", "MKPlacemark"]
+- !private ["So30UIResponderStandardEditActionsP", "NSValue"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- !private ["So30UIResponderStandardEditActionsP", "didReceiveMemoryWarning"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "viewDidLoad"]
+- !private ["So16UIStateRestoringP", "CLLocationCoordinate2DMake"]
+- !private ["So16UIStateRestoringP", "MKCoordinateRegionMakeWithDistance"]
+- !private ["So16UIStateRestoringP", "MKLaunchOptionsMapCenterKey"]
+- !private ["So16UIStateRestoringP", "MKLaunchOptionsMapSpanKey"]
+- !private ["So16UIStateRestoringP", "MKMapItem"]
+- !private ["So16UIStateRestoringP", "MKPlacemark"]
+- !private ["So16UIStateRestoringP", "NSValue"]
+- ["So16UIStateRestoringP", ""]
+- !private ["So16UIStateRestoringP", "didReceiveMemoryWarning"]
+- !private ["So16UIStateRestoringP", "init"]
+- !private ["So16UIStateRestoringP", "init"]
+- !private ["So16UIStateRestoringP", "viewDidLoad"]
+- !private ["So18UITraitEnvironmentP", "CLLocationCoordinate2DMake"]
+- !private ["So18UITraitEnvironmentP", "MKCoordinateRegionMakeWithDistance"]
+- !private ["So18UITraitEnvironmentP", "MKLaunchOptionsMapCenterKey"]
+- !private ["So18UITraitEnvironmentP", "MKLaunchOptionsMapSpanKey"]
+- !private ["So18UITraitEnvironmentP", "MKMapItem"]
+- !private ["So18UITraitEnvironmentP", "MKPlacemark"]
+- !private ["So18UITraitEnvironmentP", "NSValue"]
+- ["So18UITraitEnvironmentP", ""]
+- !private ["So18UITraitEnvironmentP", "didReceiveMemoryWarning"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "viewDidLoad"]
+- !private ["So23UIUserActivityRestoringP", "CLLocationCoordinate2DMake"]
+- !private ["So23UIUserActivityRestoringP", "MKCoordinateRegionMakeWithDistance"]
+- !private ["So23UIUserActivityRestoringP", "MKLaunchOptionsMapCenterKey"]
+- !private ["So23UIUserActivityRestoringP", "MKLaunchOptionsMapSpanKey"]
+- !private ["So23UIUserActivityRestoringP", "MKMapItem"]
+- !private ["So23UIUserActivityRestoringP", "MKPlacemark"]
+- !private ["So23UIUserActivityRestoringP", "NSValue"]
+- ["So23UIUserActivityRestoringP", ""]
+- !private ["So23UIUserActivityRestoringP", "didReceiveMemoryWarning"]
+- !private ["So23UIUserActivityRestoringP", "init"]
+- !private ["So23UIUserActivityRestoringP", "init"]
+- !private ["So23UIUserActivityRestoringP", "viewDidLoad"]
+- !private ["So16UIViewControllerC", "CLLocationCoordinate2DMake"]
+- !private ["So16UIViewControllerC", "CLLocationDegrees"]
+- !private ["So16UIViewControllerC", "CLLocationDistance"]
+- !private ["So16UIViewControllerC", "MKCoordinateRegionMakeWithDistance"]
+- !private ["So16UIViewControllerC", "MKLaunchOptionsMapCenterKey"]
+- !private ["So16UIViewControllerC", "MKLaunchOptionsMapSpanKey"]
+- !private ["So16UIViewControllerC", "MKMapItem"]
+- !private ["So16UIViewControllerC", "MKPlacemark"]
+- !private ["So16UIViewControllerC", "NSValue"]
+- ["So16UIViewControllerC", ""]
+- ["So16UIViewControllerC", "didReceiveMemoryWarning"]
+- ["So16UIViewControllerC", "init"]
+- !private ["So16UIViewControllerC", "init"]
+- ["So16UIViewControllerC", "showMeWhere"]
+- ["So16UIViewControllerC", "viewDidLoad"]
+- !private ["3nav14ViewControllerC", "CLLocationCoordinate2DMake"]
+- !private ["3nav14ViewControllerC", "CLLocationDegrees"]
+- !private ["3nav14ViewControllerC", "CLLocationDistance"]
+- !private ["3nav14ViewControllerC", "MKCoordinateRegionMakeWithDistance"]
+- !private ["3nav14ViewControllerC", "MKLaunchOptionsMapCenterKey"]
+- !private ["3nav14ViewControllerC", "MKLaunchOptionsMapSpanKey"]
+- !private ["3nav14ViewControllerC", "MKMapItem"]
+- !private ["3nav14ViewControllerC", "MKPlacemark"]
+- !private ["3nav14ViewControllerC", "NSValue"]
+- ["3nav14ViewControllerC", "didReceiveMemoryWarning"]
+- ["3nav14ViewControllerC", "init"]
+- ["3nav14ViewControllerC", "showMeWhere"]
+- ["3nav14ViewControllerC", "viewDidLoad"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "CLLocationCoordinate2DMake"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "MKCoordinateRegionMakeWithDistance"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "MKLaunchOptionsMapCenterKey"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "MKLaunchOptionsMapSpanKey"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "MKMapItem"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "MKPlacemark"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "NSValue"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "didReceiveMemoryWarning"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "name"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "openInMaps"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "viewDidLoad"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s16_SwiftStringViewP", "init"]
+- !private ["s16_SwiftStringViewP", "init"]
+depends-nominal:
+- !private "SK"
+- !private "So11CLPlacemarkC"
+- "s7CVarArgP"
+- !private "Sl"
+- !private "SL"
+- "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "Se"
+- !private "SE"
+- "SQ"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- "SH"
+- !private "s25LosslessStringConvertibleP"
+- !private "So12MKAnnotationP"
+- !private "So18MKCoordinateRegiona"
+- !private "So9MKMapItemC"
+- !private "So11MKPlacemarkC"
+- !private "s10MirrorPathP"
+- "So8NSCodingP"
+- !private "So9NSCopyingP"
+- "So26NSExtensionRequestHandlingP"
+- !private "So21NSItemProviderReadingP"
+- !private "So21NSItemProviderWritingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "So14NSSecureCodingP"
+- !private "So7NSValueC"
+- !private "Sm"
+- !private "ST"
+- !private "SS"
+- !private "Sy"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- "So21UIAppearanceContainerP"
+- "So18UIContentContainerP"
+- "So18UIFocusEnvironmentP"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- "So16UIStateRestoringP"
+- "So18UITraitEnvironmentP"
+- "So23UIUserActivityRestoringP"
+- "So16UIViewControllerC"
+- "3nav14ViewControllerC"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s33_ExpressibleByStringInterpolationP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreLocation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/MapKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/MapKit.framework/Headers/MapKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "1309f0c5d0a9bcd417e8dc57edd9a4f8"

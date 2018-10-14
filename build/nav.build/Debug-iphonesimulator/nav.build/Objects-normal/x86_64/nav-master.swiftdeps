@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
+options: "a36a08c36a4406d408ac0dd26da3072f"
+build_time: [1539550328, 666938000]
+inputs:
+  "/Users/sriramprasad/Downloads/nav/nav/ViewController.swift": [1539550263, 0]
+  "/Users/sriramprasad/Downloads/nav/nav/AppDelegate.swift": [1485865699, 0]
